@@ -12,8 +12,8 @@ const CONFIG = {
   HERO_TITLE_1: '分享编程',
   HERO_TITLE_2: '与思维认知',
   HERO_TITLE_3: 'GOHKQ.COM',
-  HERO_TITLE_4: '置顶文章',
-  HERO_TITLE_5: 'Rust编程指南',
+  HERO_TITLE_4: 'THE NEWS',
+  HERO_TITLE_5: '置顶文章',
   HERO_TITLE_LINK: 'https://gohkq.com',
 
   // 英雄区显示三个置顶分类
