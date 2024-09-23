@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享编程',
   HERO_TITLE_2: '与思维认知',
-  HERO_TITLE_3: 'GOHKQ.COM',
+  HERO_TITLE_3: 'WWW.HOUKEQI.COM',
   HERO_TITLE_4: 'THE NEWS',
   HERO_TITLE_5: '置顶文章',
   HERO_TITLE_LINK: 'https://gohkq.com',
